@@ -1,16 +1,21 @@
 # Hello world!
-This is my markdown file. 
+This is my markdown file. :bowtie:
 
-## Objectives
-
+## Objectives 
 I have 3 objectives with this file. 
-* one
-* two
+* one 
+* two 🐙
 * three
 
-## Priorities
+## Priorities 
 I have several priorities
-1. one
+1. one ⭐
 2. two
-3. three
+3. three 🚴‍♀️
+
+*Markdown is the cat's pajamas!*
+
+This page was authored in GitHub :octocat:
+
+
 
